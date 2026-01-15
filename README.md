@@ -37,26 +37,26 @@
 ### Languages, Frameworks and Technologies:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="39" height="39"/> </a>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=express" alt="express" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=css" alt="css3" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=angular" alt="angular" width="39" height="39"/>
+<img src="https://skillicons.dev/icons?i=react" alt="react" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="39" height="39"/> 
+<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="39" height="39"/> 
 </p>
 
 ---
