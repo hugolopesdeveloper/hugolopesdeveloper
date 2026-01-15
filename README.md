@@ -37,7 +37,7 @@
 ### Languages, Frameworks and Technologies:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="38" height="38"/> </a>
+<img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="38" height="38"/>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="38" height="38"/> 
 <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="38" height="38"/> 
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="38" height="38"/> 
