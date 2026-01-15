@@ -19,7 +19,7 @@
 
 <h1>Hey! Nice to see you 👨‍💻 </h1>
 
-<p>I'm Hugo Lopes, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321256.png" width="13" /> Porto, Portugal with 2+ years of experience in developing enterprise applications</p>
+<p>I'm Hugo Lopes, Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/128/321/321256.png" width="13" /> Porto, Portugal with 2+ years of experience in coding development.</p>
 
 ---
 
